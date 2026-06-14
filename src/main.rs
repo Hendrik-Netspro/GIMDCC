@@ -7,4 +7,5 @@ fn main() {
     println!("{voller_name}");
     println!("Version: {version}");
     println!("Status: bereit fuer die erste Funktion");
+    println!("TEST")
 }
